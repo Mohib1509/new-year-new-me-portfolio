@@ -34,3 +34,29 @@
     background: #FD6E0A;
     color: #FFFFFF;
 }
+.failure{
+    display: flex;
+    align-items: center;
+    margin-top: 350px;
+    text-align: left;
+    margin-right: 200px;
+    margin-left: 190px;
+    
+}
+.secondtitle{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.list li{
+    list-style: none;
+    
+}
+li:not(:last-child){
+   
+}
+li::before{
+    content: "\2714";
+    color: green;
+    margin-right: 10px;
+}
