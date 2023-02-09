@@ -7,12 +7,12 @@
 .banner {
     position: relative;
     text-align: center;
-    
+
 }
 
 .banner-text {
     text-align: right;
-    margin-left: 700px;
+    margin-left: 710px;
     margin-top: -640px;
     margin-right: 230px;
     align-items: center;
@@ -20,6 +20,17 @@
 }
 
 .opening {
-    font-weight: 700;
+    font-weight: 1000;
     font-size: 65px;
+}
+
+.button-primary {
+    height: 64px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: #FFFFFF;
 }
