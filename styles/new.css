@@ -1,0 +1,25 @@
+* {
+
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.banner {
+    position: relative;
+    text-align: center;
+    
+}
+
+.banner-text {
+    text-align: right;
+    margin-left: 700px;
+    margin-top: -640px;
+    margin-right: 230px;
+    align-items: center;
+
+}
+
+.opening {
+    font-weight: 700;
+    font-size: 65px;
+}
